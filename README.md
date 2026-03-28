@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Software Engineer, building scalable and real-world solutions<br>💻 Strong in Python, SQL<br>🤖 Passionate about AI. Machine Learning & impactful tech innovations<br>🌐Built projects like Plant Disease Detection, Crop & Fertilizer Recommendation and Sustainable Smart City Assistant<br>📈 Consistently learning, improving, and growing in tech every day
+🚀 Passionate Software Engineer, building scalable and real-world solutions<br>💻 Strong in Python, SQL<br>🤖 Passionate about AI. Machine Learning & impactful tech innovations<br>🌐 Built projects like Plant Disease Detection, Crop & Fertilizer Recommendation and Sustainable Smart City Assistant<br>📈 Consistently learning, improving, and growing in tech every day
 
 
 ## 🌐 Socials:
